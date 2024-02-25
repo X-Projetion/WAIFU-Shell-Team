@@ -2,7 +2,7 @@
 waifu shell team, waifu shell , waifu mini shell , waifu backdoor shell mini
 
 WAIFU-Shell-Team adalah backdoor yang di rancang menggunakan php untuk melakukan serangan sebuah website/server, code-code yang disusun menjadi script rahasia digunakan untuk mengendalikan sebuah website/server.
-<h1>waifu shell team</h1> merupakan backdoor yang dibangun menggunakan bahasa pemrograman PHP dengan metode prosedural PHP dalam mode stealth, menggunakan metode private sehingga dapat dengan mudah lolos dari pemindaian virus.
+<h1>WAIFU SHELL</h1> merupakan backdoor yang dibangun menggunakan bahasa pemrograman PHP dengan metode prosedural PHP dalam mode stealth, menggunakan metode private sehingga dapat dengan mudah lolos dari pemindaian virus.
 
 waifu shell team tidak akan terindex oleh Google karena status code yang dihasilkan adalah 403, hal ini akan membuat shell backdoor anda aman dari pencurian hacker lain.
 
