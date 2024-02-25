@@ -7,12 +7,12 @@ WAIFU-Shell-Team adalah backdoor yang di rancang menggunakan php untuk melakukan
 waifu shell team tidak akan terindex oleh Google karena status code yang dihasilkan adalah 403, hal ini akan membuat shell backdoor anda aman dari pencurian hacker lain.
 
 
-<h5>HTTP/1.1 403 Forbidden
-Date: Sun, 25 Feb 2024 07:32:35 GMT
-Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
-X-Powered-By: PHP/8.2.8
-Host: localhost:1337
-Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
+<h5>HTTP/1.1 403 Forbidden<br>
+Date: Sun, 25 Feb 2024 07:32:35 GMT<br>
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30<br>
+X-Powered-By: PHP/8.2.8<br>
+Host: localhost:1337<br>
+Connection: close<br>
+Transfer-Encoding: chunked<br>
+Content-Type: text/html; charset=UTF-8<br>
 </h5>
